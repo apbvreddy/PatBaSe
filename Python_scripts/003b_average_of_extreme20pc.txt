@@ -1,0 +1,2 @@
+cut -d',' -f2 g01to73_$1_ampdRn.csv1
+
